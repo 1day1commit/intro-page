@@ -49,6 +49,7 @@ body {
 /* Home */
 #home {
   height: 100vh;
+  min-height: 1300px;
   text-align: center;
   background-color: #000;
 }
@@ -139,6 +140,8 @@ body {
 /* section */
 .section__container {
   padding-top: 100px;
+  width: 1024px;
+  margin: 0 auto;
 }
 
 .section__container h1 {
